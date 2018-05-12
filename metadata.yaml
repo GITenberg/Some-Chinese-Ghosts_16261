@@ -1,0 +1,35 @@
+_repo: Some-Chinese-Ghosts_16261
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Koizumi, Yakumo
+    - Xiaoquan, Bayun
+    - Hearn, Patrick Lafcadio
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: ''
+gutenberg_issued: '2005-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Legends -- China'
+- !lcsh 'China -- Social life and customs -- Fiction'
+tableOfContents: The soul of the great bell -- The story of Ming-Y -- The legend of
+  Tchi-Niu -- The return of Yen-Tchin-King -- The tradition of the tea-plant -- The
+  tale of the porcelain-god -- Notes.
+title: Some Chinese Ghosts
+url: http://www.gutenberg.org/ebooks/16261
