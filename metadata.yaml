@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/368
     wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16261#Some-Chinese-Ghosts
 gutenberg_issued: '2005-07-11'
 gutenberg_type: Text
 identifiers:
